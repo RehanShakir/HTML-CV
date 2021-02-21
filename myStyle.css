@@ -1,0 +1,43 @@
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 30px;
+  margin-top: -5px;
+}
+img {
+  width: 180px;
+  margin-left: 220%;
+}
+#first {
+  padding-top: 100px;
+  padding-left: 400px;
+}
+hr {
+  width: 50%;
+  border: none;
+  height: 0.5px;
+  background-color: black;
+}
+table {
+  padding-left: 400px;
+}
+p {
+  margin-top: -15px;
+  text-align: justify;
+  font-size: 18px;
+}
+#ul1 {
+  margin-top: -15px;
+}
+li {
+  padding: 2px;
+}
+h3 {
+  font-weight: lighter;
+  font-size: 18px;
+}
+#h2-1 {
+  font-weight: bold;
+  font-size: 20px;
+}
