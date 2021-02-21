@@ -41,3 +41,6 @@ p {
 li {
   padding: 2px;
 }
+a {
+  pointer-events: none;
+}
