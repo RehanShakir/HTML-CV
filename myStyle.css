@@ -5,12 +5,20 @@ h2 {
   font-size: 30px;
   margin-top: -5px;
 }
+h3 {
+  font-weight: lighter;
+  font-size: 18px;
+}
+#h2-1 {
+  font-weight: bold;
+  font-size: 20px;
+}
 img {
   width: 180px;
   margin-left: 220%;
 }
 #first {
-  padding-top: 100px;
+  padding-top: 40px;
   padding-left: 400px;
 }
 hr {
@@ -32,12 +40,4 @@ p {
 }
 li {
   padding: 2px;
-}
-h3 {
-  font-weight: lighter;
-  font-size: 18px;
-}
-#h2-1 {
-  font-weight: bold;
-  font-size: 20px;
 }
