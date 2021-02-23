@@ -1,5 +1,6 @@
 h1 {
-  font-size: 50px;
+  font-size: 2.777em;
+  margin-bottom: 10px;
 }
 h2 {
   font-size: 30px;
@@ -11,11 +12,11 @@ h3 {
 }
 #h2-1 {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 1.12em;
 }
 img {
   width: 180px;
-  margin-left: 220%;
+  margin-left: 145%;
 }
 #first {
   padding-top: 40px;
@@ -33,7 +34,7 @@ table {
 p {
   margin-top: -15px;
   text-align: justify;
-  font-size: 18px;
+  font-size: 1em;
 }
 #ul1 {
   margin-top: -15px;
@@ -41,6 +42,10 @@ p {
 li {
   padding: 2px;
 }
-a {
-  pointer-events: none;
+#a1 {
+  padding-left: 6px;
+  target: _blank;
+}
+i {
+  margin-top: 3%;
 }
